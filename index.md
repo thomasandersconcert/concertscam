@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Afectados Conciertos Modern Talking España 2023
+title: Afectados Conciertos Thomas Anders (Modern Talking) España 2023
 ---
 
-# Afectados Conciertos Modern Talking España 2023
+# Afectados Conciertos de Thomas Anders (Modern Talking) España 2023
 
 ## Resumen del Caso
 
-Durante 2023, se programaron tres conciertos de Modern Talking en España que fueron cancelados sin la debida devolución del dinero a los compradores. Esta página web documenta la situación y proporciona información para los afectados.
+Durante 2023, se programaron tres conciertos de Thomas Anders (Modern Talking) en España que fueron cancelados sin la debida devolución del dinero a los compradores. Esta página web documenta la situación y proporciona información para los afectados.
 
 ## Responsables Identificados
 
